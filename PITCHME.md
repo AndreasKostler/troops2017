@@ -36,8 +36,11 @@
 
 * Independent of external agency
 
----
 # Code Aware
 ```scala
 def foo(a: Int): Double = 42
 ```
+---?image=media/clean-architecture1.gif
+---?image=media/self-portrait.png 
+# What's In a Name?
+
