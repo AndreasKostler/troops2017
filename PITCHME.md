@@ -41,7 +41,7 @@
 def foo(a: Int): Double = 42
 ```
 ---
-![Logo](media/clean_architecture1.png)
+![Logo](media/clean_architecture1.png&size=auto)
 ---
 # What's In a Name?
-![Logo](media/self-portrait.png)
+![Logo](media/self-portrait.png&size=auto)
