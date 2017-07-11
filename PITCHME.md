@@ -6,12 +6,10 @@
 
 1. Onions
 2. Buzzwords
----
+---?image=media/grass.jpg&size=auto
 # What's in a Name?
 `* 1927 (Gdańsk)
 ✝ 2015 (Lübeck)`
-
-![Logo](media/grass.jpg)
 ---
 # How do we Build Software?
 * Hexagonal Architecture/Ports and Adapters (Alistair Cockburn 2005)
@@ -43,3 +41,36 @@ def foo(a: Int): Double = 42
 ---?image=media/clean_architecture1.png&size=auto
 ---?image=media/self-portrait.png&size=auto
 # What's In a Name?
+---
+# John De Goes Onion
+---
+# Abstraction
+At each layer, rather than directly implementing our programs, we want to write a **specification** that we later **implement** or **interpret**
+
+This allows us to:
+
+ * swap out implementations
+ *  test using mock implementations
+ *  use notions of interpretation, e.g.
+ 	*  evaluation
+ 	*  pretty-printing
+ 	*  serialization
+
+---
+# Many Names, Similar Goals
+
+* interface vs implementation
+* syntax vs semantics
+* DSL with multiple interpreters
+* compiling a source language to a target language
+---
+# Abstractions, a Dime a Dozen
+
+We don’t want to be penalised with:
+
+* poorly performing code
+
+* code that’s overly difficult to read or write.
+
+---
+
