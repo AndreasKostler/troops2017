@@ -36,3 +36,7 @@
 
 * Independent of external agency
 
+# Code Aware
+```scala
+def foo(a: Int): Double = 42
+```
