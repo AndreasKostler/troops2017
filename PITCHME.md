@@ -40,6 +40,6 @@
 ```scala
 def foo(a: Int): Double = 42
 ```
----?image=mediaclean_architecture1.png&size=auto)
----?image(media/self-portrait.png&size=auto)
+---?image=media/clean_architecture1.png&size=auto
+---?image=media/self-portrait.png&size=auto
 # What's In a Name?
