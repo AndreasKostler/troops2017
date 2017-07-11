@@ -1,2 +1,3 @@
 # Getting started
----?image=media/onion-.jpg
+---?image=media/onion-last.jpg
+# Foo
